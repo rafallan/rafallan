@@ -48,5 +48,8 @@ Este GitHub reúne projetos que mostram minha capacidade de:
 
 ## Contato
 
+Precisando de alguém para desenvolver um sistema para sua empresa ou negócio, entre em contato comigo.
+
 * GitHub: @rafallan
+* WhatsApp: (93) 98415-2029
 * Localização: Santarém/PA - Brasil
