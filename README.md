@@ -52,4 +52,5 @@ Precisando de alguém para desenvolver um sistema para sua empresa ou negócio, 
 
 * GitHub: @rafallan
 * WhatsApp: (93) 98415-2029
+* E-mail: raf.bsiufpa@gmail.com / rafallan.batalha@gmail.com
 * Localização: Santarém/PA - Brasil
